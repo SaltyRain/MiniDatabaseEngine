@@ -120,8 +120,4 @@ ctest --test-dir build
 
 ---
 
-## License
-
-MIT
-
-```
+## License - MIT
