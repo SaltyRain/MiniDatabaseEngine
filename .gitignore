@@ -39,3 +39,14 @@
 
 # debug information files
 *.dwo
+
+/build
+/.idea
+/.vscode
+*.o
+*.obj
+*.a
+*.lib
+*.exe
+*.out
+.DS_Store
