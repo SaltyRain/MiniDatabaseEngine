@@ -21,7 +21,7 @@ storage on disk, pages, a basic record format, and a minimal query layer.
 
 ## Roadmap (Milestones)
 
-### M0 — Scaffold (you are here)
+### M0 — Scaffold
 - CMake project layout
 - unit test setup
 - CI build
